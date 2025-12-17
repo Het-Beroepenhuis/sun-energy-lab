@@ -10,9 +10,9 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## 📖 Overview
 
-The **Didactische Zonnekoffer** (Educational Solar Suitcase) is a demonstration kit designed to teach students the principles of solar energy It allows users to investigate how solar panels function under different lighting conditions and electrical loads
+The **Sun Energy Lab** is a demonstration kit designed to teach students the principles of solar energy. It allows users to investigate how solar panels function under different lighting conditions and electrical loads.
 
-The unit features an internal **Arduino Uno** that controls the simulation lights (halogen), measures voltage from the panels, and calculates the current and power drawn by the connected loads
+The unit features an internal **Arduino Uno** that controls the simulation lights (halogen), measures voltage from the panels and calculates the current and power drawn by the connected loads.
 
 ## 🛠 Hardware Specifications
 
@@ -20,7 +20,7 @@ The unit features an internal **Arduino Uno** that controls the simulation light
 * **Sun Simulator:** 3x Halogen lamps (10W/12V) mounted on an aluminum stand to simulate sunlight intensity
 * **Controller:** Arduino Uno (internal)
 * **Power Supply:** Internal 230VAC to 12VDC (4.2A) power supply
-* **Display:** LCD screen showing Voltage ($V$), Current ($A/mA$), and Power ($W/mW$)
+* **Display:** LCD screen showing Voltage ($V$), Current ($A/mA$) and Power ($W/mW$)
 
 ### Simulated Loads
 The suitcase includes 4 switchable dummy loads to simulate real-world usage :
@@ -62,9 +62,7 @@ The Arduino is wired as follows based on the internal source code :
 ## ⚙️ Usage Instructions
 
 ### 1. Simulating Sunlight
-Use the push buttons to simulate the sun's position. The Arduino controls the halogen lamps to vary intensity:
-* **Morning / Evening:** Low light intensity
-* **Noon (Middag):** Maximum light intensity (all 3 spots on) .
+Use the push buttons to simulate the sun's position. The Arduino controls the halogen lamps to vary intensity.
 
 ### 2. Panel Configuration
 Connect the banana plugs in the cable tray to configure the 4 panels:
