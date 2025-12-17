@@ -2,7 +2,7 @@
 
 **Manufacturer:** Schokarts BV  
 **Model:** SUN ENERGY LAB  
-**Date:** 25/05/2025
+**Date:** 17/12/2025
 
 ## License
 
