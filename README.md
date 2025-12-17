@@ -22,8 +22,6 @@ The unit features an internal **Arduino Uno** that controls the simulation light
 * **Power Supply:** Internal 230VAC to 12VDC (4.2A) power supply
 * **Display:** LCD screen showing Voltage ($V$), Current ($A/mA$), and Power ($W/mW$)
 
-![Arduino Pinout Diagram](path/to/arduino_diagram.png)
-
 ### Simulated Loads
 The suitcase includes 4 switchable dummy loads to simulate real-world usage :
 1.  **GSM Charger:** ~10W
