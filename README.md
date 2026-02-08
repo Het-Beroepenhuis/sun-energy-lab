@@ -1,4 +1,4 @@
-# SUN ENERGY LAB - Didactische Zonnekoffer
+# SUN ENERGY LAB
 
 **Manufacturer:** Schokarts BV  
 **Model:** SUN ENERGY LAB  
